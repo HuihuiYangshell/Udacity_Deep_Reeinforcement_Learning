@@ -35,8 +35,6 @@ To solve the environment, the Agent must obtain an average score of **>13** over
   * Navigation_success.ipynb
   * dqn_agent.py
   * model.py
-* A file describing all the packages required to set up the environment
-  * environment.yml
 * The trained model
   * dqn_success.pth
 * A Report.pdf file describing the development process and the learning algorithm, along with ideas for future work
