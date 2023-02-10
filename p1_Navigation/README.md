@@ -109,6 +109,6 @@ To experiment with how the Agent learns through distinct parameters, you can tun
 * UPDATE_EVERY: How often to update the network
 
 **3.** In the **model.py** file
-* we use 3 layers each has 64 neurons; the activation function is RELU. 
+* we use 2 layers each has 64 neurons; the activation function is RELU. 
 
 
