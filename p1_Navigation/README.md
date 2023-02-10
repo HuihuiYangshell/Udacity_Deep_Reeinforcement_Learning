@@ -32,9 +32,8 @@ To solve the environment, the Agent must obtain an average score of **>13** over
 ## Included in this repository
 
 * The code used to create and train the Agent
-  * Navigation.ipynb
+  * Navigation_success.ipynb
   * dqn_agent.py
-  * dueling_model.py
   * model.py
 * A file describing all the packages required to set up the environment
   * environment.yml
